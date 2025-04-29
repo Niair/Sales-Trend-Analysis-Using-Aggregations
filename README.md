@@ -73,23 +73,3 @@ Add temporal filters to any query:
 ```
 WHERE order_date BETWEEN '2023-01-01' AND '2023-12-31'
 ```
-
-## 📦 Dashboard Integration
-To visualize these results in Power BI/Tableau:
-1. Connect to your SQL database
-2. Create time-series charts for revenue/profit
-3. Build product/city performance matrices
-
-![Dashboard Example](https://via.placeholder.com/600x400?text=Sample+Sales+Dashboard)
-
-## 📄 License
-MIT License - Free for academic/commercial use
-
-## 🙏 Acknowledgments
-Adaptable to any retail/e-commerce dataset. Clone and modify for your specific business needs!
-```
-
-This README provides clear documentation while maintaining professional formatting. Would you like me to add any specific deployment instructions or contribution guidelines?
-
----
-Answer from Perplexity: pplx.ai/share
