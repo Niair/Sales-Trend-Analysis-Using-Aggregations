@@ -1,8 +1,6 @@
-```markdown
 # Sales Trend Analysis Using SQL Aggregations
 
-![SQL](https://img.shields.io/badge/SQL-PostgreSQL%20|%20MySQL%20|%20SQLite-blue)
-![Analytics](https://img.shields.io/badge/Purpose-Business%20Intelligence-orange)
+
 
 A collection of SQL scripts for analyzing e-commerce sales data through time-based aggregations and business metrics.
 
